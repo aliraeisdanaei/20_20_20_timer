@@ -5,30 +5,33 @@ This program was designed to remind microsoft users to take a break from looking
 It reminds the user by sounding a ringtone, talking to the user, and or by openning a popup. 
 
 ## Different Screens
+### Main Menu
+:[Main Menu Screen] (https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/main_menu.JPG)
+
 ### Initial Set Up
 Initially when the settings.txt file is empty this screen will show. 
-:[Initial Set Up]()
+:[Initial Set Up](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/initSetup.JPG)
 
 It will prompt the user for information, and preferences for notifications. 
 It will save the information onto data.txt, and retrieve it everytime the program is run again. 
 
 ### Timer Screen
 The timer screen is green when it is in work mode. The seconds are decremented by fives. 
-:[Work Screen]()
+:[Work Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/work screen)
 
 And it is red when it is in break mode. The seconds are decremented by one. 
-:[Break Screen]()
+:[Break Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/break.JPG)
 
 Once the work timer reaches zero, the ringtone, speech, and popups will be triggered if they were enabled. 
-:[Pop Up]()
+:[Pop Up](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/media/break-time.jpg)
 
 The user is prompted if they would like to go back to work when the break is over. The ringtone as well as the speech signal the user to go back to work if they are enabled. 
-:[Continue Working]()
+:[Continue Working](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/backWork.JPG)
 
 
 ### Setting
 All of the preferences can be changed in the app. 
-:[Settings Screen]()
+:[Settings Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/settings.JPG)
 
 #### Ringtone SetUp 
 The ringtones can be changed from a menu. Each of them can also be heard. 
