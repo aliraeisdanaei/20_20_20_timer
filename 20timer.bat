@@ -124,7 +124,7 @@ goto :work_countDown
 
 :minute_Decrease
 set /a min=%min%-1
-set sec=5
+set sec=55
 
 goto :work_countDown
 
