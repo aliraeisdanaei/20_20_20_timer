@@ -32,7 +32,7 @@ All of the preferences can be changed in the app.
 
 #### Ringtone SetUp 
 The ringtones can be changed from a menu. Each of them can also be heard. 
-:[Ringtone Screen ]()
+:[Ringtone Screen ](https://github.com/aliraeisdanaei/20_20_20_timer/blob/master/images/RingtoneSetUp.JPG)
 
 
 ## Notes
