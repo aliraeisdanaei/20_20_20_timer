@@ -1,5 +1,5 @@
 Set Alarm = CreateObject("WMPlayer.OCX.7")
-Alarm.URL = "media\Alarm08.wav"
+Alarm.URL = "media\Alarm02.wav"
 Alarm.Controls.play
 do while Alarm.currentmedia.duration = 0
 wscript.sleep 100
