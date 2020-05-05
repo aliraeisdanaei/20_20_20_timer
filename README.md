@@ -6,7 +6,7 @@ It reminds the user by sounding a ringtone, talking to the user, and or by openn
 
 ## Different Screens
 ### Main Menu
-:[Main Menu Screen] (https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/main_menu.JPG)
+:[Main Menu Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/main_menu.JPG)
 
 ### Initial Set Up
 Initially when the settings.txt file is empty this screen will show. 
@@ -17,7 +17,7 @@ It will save the information onto data.txt, and retrieve it everytime the progra
 
 ### Timer Screen
 The timer screen is green when it is in work mode. The seconds are decremented by fives. 
-:[Work Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/work screen)
+:[Work Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/work%20screen.jpg)
 
 And it is red when it is in break mode. The seconds are decremented by one. 
 :[Break Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/break.JPG)
