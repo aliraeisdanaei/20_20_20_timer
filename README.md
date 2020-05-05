@@ -10,7 +10,7 @@ It reminds the user by sounding a ringtone, talking to the user, and or by openn
 
 ### Initial Set Up
 Initially when the settings.txt file is empty this screen will show. 
-:[Initial Set Up](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/initSetup.JPG)
+:[Initial Set Up Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/initSetup.JPG)
 
 It will prompt the user for information, and preferences for notifications. 
 It will save the information onto data.txt, and retrieve it everytime the program is run again. 
@@ -23,10 +23,10 @@ And it is red when it is in break mode. The seconds are decremented by one.
 :[Break Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/break.JPG)
 
 Once the work timer reaches zero, the ringtone, speech, and popups will be triggered if they were enabled. 
-:[Pop Up](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/media/break-time.jpg)
+:[Pop Up Image](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/media/break-time.jpg)
 
 The user is prompted if they would like to go back to work when the break is over. The ringtone as well as the speech signal the user to go back to work if they are enabled. 
-:[Continue Working](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/backWork.JPG)
+:[Continue Working Screen](https://raw.githubusercontent.com/aliraeisdanaei/20_20_20_timer/master/images/backWork.JPG)
 
 
 ### Setting
