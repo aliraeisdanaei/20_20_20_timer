@@ -22,8 +22,7 @@ And it is red when it is in break mode. The seconds are decremented by one.
 Once the work timer reaches zero, the ringtone, speech, and popups will be triggered if they were enabled. 
 :[Pop Up]()
 
-The user is prompted if they would like to go back to work when the break is over. The ringtone as well as the speech signal the user to go back to work if they are enabled. 
-:[Continue Working]()
+The ringtone and speech will be sounded again when the break time is over to signal the user to go back to work. 
 
 
 ### Setting

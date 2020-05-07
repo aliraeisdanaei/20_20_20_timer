@@ -184,18 +184,18 @@ if not %ringtone% == Empty (
 )
 
 
-:breakdirectory
-cls
-color 4F
-echo That was a much needed break.
-set choice=0
-set /p choice= "Do you want to go back to work?(Y/N)"
-del media\speech.vbs
-del media\speechBreak.vbs
+REM :breakdirectory
+REM cls
+REM color 4F
+REM echo That was a much needed break.
+REM set choice=0
+REM set /p choice= "Do you want to go back to work?(Y/N)"
+REM del media\speech.vbs
+REM del media\speechBreak.vbs
 
 if %choice% == y goto :work
-if %choice% == n goto :menu
-goto :breakdirectory
+REM if %choice% == n goto :menu
+REM goto :breakdirectory
 
 
 :settings
