@@ -192,10 +192,13 @@ REM set choice=0
 REM set /p choice= "Do you want to go back to work?(Y/N)"
 REM del media\speech.vbs
 REM del media\speechBreak.vbs
-
-if %choice% == y goto :work
+REM 
+REM if %choice% == y goto :work
 REM if %choice% == n goto :menu
 REM goto :breakdirectory
+
+REM it goes directly to work now instead of asking the user
+goto :work
 
 
 :settings
